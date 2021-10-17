@@ -1,0 +1,6 @@
+B-CPP-300_rush2.pdf
+*.gcda
+*.gcno
+test
+*.o
+main.cpp

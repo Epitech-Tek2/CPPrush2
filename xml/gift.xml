@@ -1,0 +1,8 @@
+<Gifts>
+  <Gift Wrap="Box" Type="Teddy" Title="brun"/>
+  <Gift Wrap="Box" Type="Teddy" Title="petit"/>
+  <Gift Wrap="Box" Type="Teddy" Title="ourson"/>
+  <Gift Wrap="PaperGift" Type="LittlePony" Title="rose"/>
+  <Gift Wrap="PaperGift" Type="LittlePony" Title="cute"/>
+  <Gift Wrap="PaperGift" Type="LittlePony" Title="horse"/>
+</Gifts>
